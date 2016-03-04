@@ -1,0 +1,16 @@
+{
+  "name": "kirby-air-ride-bot",
+  "version": "1.0.0",
+  "description": "tweets kirby air ride 2 optimism",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lila Conlee <lila.conlee@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "node-env-file": "^0.1.8",
+    "twit": "^2.2.2",
+    "twitter": "^1.2.5"
+  }
+}
